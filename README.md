@@ -1,5 +1,5 @@
 # Inventory Counter
-Django app that lets you add inventory via speech
+Django app that lets you add/update inventory via speech using API provided by OpenAI's Whisper AI
 
 
 # Setup
